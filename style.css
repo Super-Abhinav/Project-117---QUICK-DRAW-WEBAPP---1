@@ -1,11 +1,11 @@
 #score{
-    margin-left: 5px;
+    margin-left: 20px;
     font-size: 30px;
     font-family: 'Oswald', sans-serif;
 }
 #timer{
     float: right;
-    margin-right: 5px;
+    margin-right: 20px;
     font-size: 30px;
     font-family: 'Oswald', sans-serif;
 }
